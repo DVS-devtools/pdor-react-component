@@ -1,1 +1,1 @@
-## react-cmp# pdor-react-component  boilerplate
+# pdor-react-component  boilerplate
