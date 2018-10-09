@@ -68,7 +68,6 @@
         }
       ],
       "filesToBeRenamed": {
-        "gitignore": ".gitignore",
         "src/components/YourComponent": "src/components/:targetNameComponent",
         "src/components/:targetNameComponent/YourComponent.test.jsx": "src/components/:targetNameComponent/:targetNameComponent.test.jsx"
       }
