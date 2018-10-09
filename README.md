@@ -2,7 +2,7 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/docomodigital/pdor-react-component.svg)](https://greenkeeper.io/)
 
-Boilerplate for [pdor generator](https://github.com/docomodigital/pdor) to generate a react component
+Boilerplate for [pdor generator](https://github.com/docomodigital/pdor) to generate a react component.
 
 ## Features
 
