@@ -40,7 +40,8 @@ You can find all commands for develop, maintain and publish your library on **CO
 
 ## Useful links
 
-* [Parcel](https://github.com/parcel-bundler/parcel)
+* [Webpack](https://webpack.js.org/)
+* [Babel](https://babeljs.io/)
 * [React](https://reactjs.org/)
 * [JSDoc](https://github.com/jsdoc3/jsdoc)
 * [Minami JSDoc Template](https://github.com/Nijikokun/minami)
