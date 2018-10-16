@@ -8,7 +8,7 @@ module.exports = {
                 use: [
                     {
                         loader: 'url-loader',
-                        options:{
+                        options: {
                             fallback: 'file-loader',
                             name: '[name][md5:hash].[ext]',
                             outputPath: 'assets/',
