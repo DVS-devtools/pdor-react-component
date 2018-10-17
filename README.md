@@ -1,5 +1,6 @@
 # pdor-react-component  boilerplate
 
+[![Build Status](https://travis-ci.com/docomodigital/pdor-react-component.svg?branch=master)](https://travis-ci.com/docomodigital/pdor-react-component)
 [![Greenkeeper badge](https://badges.greenkeeper.io/docomodigital/pdor-react-component.svg)](https://greenkeeper.io/)
 
 Boilerplate for [pdor generator](https://github.com/docomodigital/pdor) to generate a react component.
@@ -40,7 +41,8 @@ You can find all commands for develop, maintain and publish your library on **CO
 
 ## Useful links
 
-* [Parcel](https://github.com/parcel-bundler/parcel)
+* [Webpack](https://webpack.js.org/)
+* [Babel](https://babeljs.io/)
 * [React](https://reactjs.org/)
 * [JSDoc](https://github.com/jsdoc3/jsdoc)
 * [Minami JSDoc Template](https://github.com/Nijikokun/minami)
