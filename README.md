@@ -1,5 +1,6 @@
 # pdor-react-component  boilerplate
 
+[![Build Status](https://travis-ci.com/docomodigital/pdor-react-component.svg?branch=master)](https://travis-ci.com/docomodigital/pdor-react-component)
 [![Greenkeeper badge](https://badges.greenkeeper.io/docomodigital/pdor-react-component.svg)](https://greenkeeper.io/)
 
 Boilerplate for [pdor generator](https://github.com/docomodigital/pdor) to generate a react component
