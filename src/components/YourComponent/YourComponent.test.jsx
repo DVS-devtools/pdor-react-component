@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Adapter from 'enzyme-adapter-react-16';
-import { shallow, configure } from 'enzyme';
+import { shallow, configure, mount } from 'enzyme';
 import YourComponent from './index';
 
 import 'jest-styled-components';
@@ -33,7 +33,7 @@ it('renders children elements', () => {
 });
 
 it('renders the correct computed styles', () => {
-    const cmp = shallow(<YourComponent>children</YourComponent>);
+    const cmp = mount(<YourComponent>children</YourComponent>);
     Object.keys(styles).forEach((rule) => {
         expect(cmp).toHaveStyleRule(rule, styles[rule]);
     });
