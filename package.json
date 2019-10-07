@@ -39,7 +39,7 @@
     "@babel/register": "7.4.4",
     "@babel/runtime": "7.4.5",
     "@storybook/addon-actions": "^5.2.2",
-    "@storybook/react": "^5.0.0",
+    "@storybook/react": "^5.2.2",
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "10.0.1",
     "babel-jest": "^23.6.0",
